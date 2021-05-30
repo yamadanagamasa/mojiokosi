@@ -1,0 +1,14 @@
+tesseract-ocr
+g++ 
+autoconf automake libtool
+pkg-config
+libpng-dev
+libjpeg8-dev
+libtiff5-dev
+zlib1g-dev
+libleptonica-dev
+
+
+tesseract-ocr 
+tesseract-ocr-eng
+tesseract-ocr-deu
